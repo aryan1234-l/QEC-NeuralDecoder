@@ -1,0 +1,6 @@
+{
+  "name": "QEC-NeuralDecoder: Scalable Quantum Error Correction Studio",
+  "description": "Real-time 3D topological surface code simulator and Graph Neural Network (GNN) / 3D CNN decoder achieving high fault-tolerant quantum threshold benchmarks with sub-microsecond latency modeling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
